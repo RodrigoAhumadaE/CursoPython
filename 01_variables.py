@@ -1,3 +1,5 @@
+import os
+
 # Variables
 dato = ""
 miVariable = "Texto de la variable"
@@ -36,6 +38,8 @@ print(nombre)
 nombre = False
 print(nombre)
 
+nombre = "Rodrigo"
+
 '''tipo bool'''
 casado = False
 titulado = True
@@ -57,6 +61,8 @@ informacion_personal = {
 }
 
 print(informacion_personal["edad"])
+
+os.system('cls')
 
 '''tipo set'''
 conjunto1 = {4, 5, 7, 8}
