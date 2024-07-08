@@ -1,6 +1,6 @@
 import os
 
-# Litas
+# Listas
 
 mi_lista = list()
 mi_otra_lista = []
