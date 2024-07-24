@@ -1,5 +1,5 @@
 import os
-os.system("clear")
+os.system("cls")
 
 # Tuplas
 mi_tupla = tuple()
@@ -22,7 +22,7 @@ print(mi_tupla.index(1.76))
 
 # mi_tupla[1] = 1.80 error
 
-os.system("clear")
+os.system("cls")
 
 nueva_tupla = mi_tupla + mi_otra_tupla
 print(nueva_tupla)
@@ -44,4 +44,4 @@ del mi_tupla
 
 # del mi_tupla[1]
 
-# print(mi_tupla)
+print(mi_tupla)
